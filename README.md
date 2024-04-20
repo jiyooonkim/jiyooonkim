@@ -1,9 +1,9 @@
 # jiyoooonkim
 - 👋 Hi, I’m @jykim
-- 👩🏻‍💻 I’m Data Engineer!! 
-- 💻 I’m currently learning ML and search api!!
-- 🚘 I like driving and coffe☕️
-- 📫 enjoy communicating!!
+- 👩🏻‍💻 I’m Data Engineer!!
+- 🔍I'm interested in search develop and create data for search 🔎
+- 💻 I’m currently learning ML and search api!
+- 📫 enjoy communicating!! ⌨️
 
 <!---
 jykim9234/jykim9234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
