@@ -2,7 +2,8 @@
 - 👋 Hi, I’m @jykim
 - 👩🏻‍💻 I’m Data Engineer!!
 - 🔍I'm interested in search develop and create data for search 🔎
-- 💻 I’m currently learning ML and search api!
+- 💻 I’m currently learning ML and search API!
+- 📡 Welcome to follow
 - 📫 enjoy communicating!![https://github.com/jiyooonkim/jiyooonkim/discussions/1#discussion-6596671] ⌨️
 
 <!---
