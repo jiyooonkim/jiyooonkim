@@ -6,11 +6,11 @@
 - 🔍I'm interested in search develop and create data for search 🔎
 - 💻 I’m currently learning ML and search API!
 - 📡 Welcome to follow
-- 📫 enjoy communicating!![https://github.com/jiyooonkim/jiyooonkim/discussions/1#discussion-6596671] ⌨️
+- 📫 enjoy communicating!![https://github.com/jiyooonkim/jiyooonkim/discussions/1#discussion-6596671] ⌨️      
 
   
-- main skill : #Data_Enginner #Application_Developver #python #Apache #Hadoop #Spark #Sqoop #Airflow #AWS #S3 #Glue #Athena #Databricks #OLAP #OLTP #Datapipeline 
-- insufficient skill : #java #KafKa #Streaming #ML #NLP 
+⭐️⭐️ Main skill ⭐️⭐️⭐️ : #Data_Enginner #Application_Developver #python #Apache #Hadoop #Spark #Sqoop #Airflow #AWS #S3 #Glue #Athena #Databricks #OLAP #OLTP #Datapipeline           
+⭐️⭐️ Insufficient skill : #java #KafKa #Streaming #ML #NLP 
 
 <!---
 jykim9234/jykim9234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
